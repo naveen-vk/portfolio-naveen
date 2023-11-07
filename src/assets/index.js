@@ -1,4 +1,4 @@
-import logo from "./images/logo.png";
+import logo from "./images/logo6.jpg";
 import banner from "./images/banner.jpg";
 import projectOne from "./images/projects/projectOne.png";
 import projectTwo from "./images/projects/projectTwo.png";
