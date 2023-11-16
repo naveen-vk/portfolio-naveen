@@ -16,48 +16,28 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Sr. Software Engineer"
-            subTitle="Google - (20XX - Present) [Goal in my bucketlist]"
-            result="USA"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            title="Software Engineer Frontend"
+            subTitle="Google - (Jan 2023 - June 2023)"
+            result="Seattle, WA"
+            des="Worked with the Data Center Software team as a Frontend Software Engineer using Angular, Typescript."
           />
           <ResumeCard
-            title="Web Developer & Trainer"
-            subTitle="Apple Developer Team - (20XX - 20XX) [Goal in my bucketlist]"
-            result="USA"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in USA isn't easy."
+            title="Software Engineer"
+            subTitle="Magna International (May 2022 - Sep 2022)"
+            result="Detroit, MI"
+            des="Interned at Magna International with the Last Mile Delivery Team to develop Autonoumous Driving Vehicle team as a Frontend Software Engineer to develop the Vehicle Dashboard."
           />
           <ResumeCard
-            title="Data Analyst Intern"
-            subTitle="Xemi - (5/6/2023 - 5/9/2023)  [3 months]"
-            result="Mumbai, Maharashtra"
-            des="Writing Web Scrapping codes to extract required data for website’s database and training ML models. Mode of work: Hybrid."
-          />
-        </div>
-      </div>
-      <div>
-        <div className="flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">20XX - 20XX</p>
-          <h2 className="text-4xl font-bold">Trainer Experience</h2>
-        </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="ML Instructor"
-            subTitle="ABC Platform (20XX - 20XX)"
-            result="UK"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+            title="Software Engineer Intern"
+            subTitle="Cognizant Technology Solutions (Jan 2021 - Aug 2021)"
+            result="Chennai, India"
+            des="Interned at Cognizant as a Software Engineer in the Tech Stack of MERN Stack developing UI, React JS components, Virtual DOM, and workflows."
           />
           <ResumeCard
-            title="Web Developer and Instructor"
-            subTitle="ABC King's College (20XX - 20XX)"
-            result="CANADA"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
-          />
-          <ResumeCard
-            title="App Developer"
-            subTitle="ABC Company (20XX - 20XX)"
-            result="India"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+            title="Software Engineer Intern"
+            subTitle="IamNEO(June 2020 - Dec 2020)"
+            result="Chennai, India"
+            des="Interned at IamNEO(Formerly Examly) as a Software Engineer in the Tech Stack of MERN Stack developing UI, working with Database technologies, REST services, UI/UX Wire Design from scratch."
           />
         </div>
       </div>

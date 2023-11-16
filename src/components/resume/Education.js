@@ -18,13 +18,13 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Master of Science in Computer Science"
-            subTitle="University of Missouri - Kansas City(2021-2022))"
+            subTitle="University of Missouri - Kansas City( 2021 - 2022 )"
             result="3.6 GPA"
             des=" I've gained practical experience and developed proficiency in technologies like Python, Software Engineering, Data Analysis, and Software Development."
           />
           <ResumeCard
             title="Bachelor of Technology in Information Technology"
-            subTitle="Sri Krishna College of Engineering and Technology(2017 - 2021)"
+            subTitle="Sri Krishna College of Engineering and Technology( 2021 Grad )"
             result="3.4 GPA"
             des="Studied IT related subjects like Data Structures, DBMS, OOPS, ML, Web Development. "
           />
@@ -39,22 +39,16 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title=" The Complete 2023 Web Development Bootcamp By Angela Yu"
-            subTitle="Udemy - (01/01/2023 - 20/06/2023) [6 months]"
+            title="Meta Front-end developer Professional Certificate"
+            subTitle="Meta - Coursera"
             result="Online"
-            des="Learnt MERN stack and made various project using the skills in this course. Check out my Github for project info !"
+            des="Learnt React Framework and made various project using the skills in this course."
           />
           <ResumeCard
             title="Intro to UI/UX development"
-            subTitle="Georgia Institute of Technology () - (10/06/2022 - 30/08/2022) [2-3 months]"
+            subTitle="Georgia Institute of Technology"
             result="Online"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in USA isn't easy."
-          />
-          <ResumeCard
-            title="Neo4j"
-            subTitle="GRAPHACADEMY - (Issued on 4th November 2022)"
-            result="Online"
-            des=" Learned basics of Neo4j - a database management system "
+            des="User Experience design is design that is user centered. The goal is to design artifacts that allow the users to meet their needs in the most effective efficient and satisfying manner."
           />
         </div>
       </div>

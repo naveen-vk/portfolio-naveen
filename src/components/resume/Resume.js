@@ -16,7 +16,7 @@ const Resume = () => {
         <Title title="18+ YEARS OF ACADEMIC AND WORK EXPERIENCE" des="My Resume" />
       </div>
       <div>
-        <ul className="w-full grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
+        <ul className="w-full grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
           <li
             onClick={() =>
               setEducationData(true) &
@@ -59,21 +59,6 @@ const Resume = () => {
             } resumeLi`}
           >
             Experience
-          </li>
-          <li
-            onClick={() =>
-              setEducationData(false) &
-              setSkillData(false) &
-              setExperienceData(false) &
-              setAchievementData(true)
-            }
-            className={`${
-              achievementData
-                ? "border-designColor rounded-lg"
-                : "border-transparent"
-            } resumeLi`}
-          >
-            Achievements
           </li>
         </ul>
       </div>
